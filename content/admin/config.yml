@@ -14,7 +14,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Image", name: "featured-image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Description", name: "description", widget: "string", required: false}
   - label: "Pages"
     name: "pages"
     files:
@@ -26,7 +26,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "Image", name: "featured-image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Draft", name: "draft", widget: "boolean", default: false}
+          - {label: "Description", name: "description", widget: "string", required: false}
       - file: "content/about/_index.md"
         label: "About"
         name: "about"
@@ -35,7 +35,16 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "Image", name: "featured-image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Draft", name: "draft", widget: "boolean", default: false}
+          - {label: "Description", name: "description", widget: "string", required: false}
+      - file: "content/about/_index.md"
+        label: "About"
+        name: "about"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Publish Date", name: "date", widget: "datetime"}
+          - {label: "Image", name: "featured-image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Description", name: "description", widget: "string", required: false}
       - file: "content/contact/_index.md"
         label: "Contact"
         name: "contact"
@@ -44,7 +53,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "Image", name: "featured-image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Draft", name: "draft", widget: "boolean", default: false}
+          - {label: "Description", name: "description", widget: "string", required: false}
       - file: "content/tickets/_index.md"
         label: "Tickets"
         name: "tickets"
@@ -53,4 +62,4 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "Image", name: "featured-image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Draft", name: "draft", widget: "boolean", default: false}
+          - {label: "Description", name: "description", widget: "string", required: false}
