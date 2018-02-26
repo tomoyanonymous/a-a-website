@@ -1,0 +1,26 @@
+baseURL = "https://clever-hawking-c1249c.netlify.com/"
+title = "Alternative Act"
+theme = "a-a-theme"
+enableRobotsTXT = true
+languageCode = "ja"
+hasCJKLanguage = true
+DefaultContentLanguage = "ja"
+MetaDataFormat = "yaml"
+SectionPagesMenu = "main"
+Paginate = 10
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+[params]
+  favicon = ""
+  description = "Alternative Act 2018 coming soon..."
+  facebook = ""
+  twitter = "https://twitter.com/alternativeact"
+  instagram = ""
+  youtube = ""
+  # background_color_class = "bg-blue"
+  featured_image = 'images/logo/blueback.jpeg'
+  recent_posts_number = 2
+  body_classes = "helvetica system-sans-serif"

@@ -1,0 +1,39 @@
+backend:
+  name: git-gateway
+
+media_folder: "static/img" # Folder where user uploaded files should go
+public_folder: "img"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "artists" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Artists" # Used in the UI, ie.: "New Post"
+    folder: "content/artists" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Artist Name", name: "name", widget: "text"}
+      - {label: "Image", name: "featured-image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+  - label: "Pages"
+    name: "pages"
+    files:
+      - file: "content/contact/_index.md"
+        label: "Contact"
+        name: "contact"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Publish Date", name: "date", widget: "datetime"}
+          - {label: "Image", name: "featured-image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - file: "content/artists/_index.md"
+        label: "Artists"
+        name: "artists_index"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Publish Date", name: "date", widget: "datetime"}
+          - {label: "Image", name: "featured-image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Draft", name: "draft", widget: "boolean", default: false}
