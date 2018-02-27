@@ -1,6 +1,6 @@
 ---
 title: "武石"
-description: Takeishi
+description: Takeishi Tatsuru
 date: 2018-02-13
 layout: "post"
 featured_image: "images/matsuuratomoya800-600.jpeg"
@@ -10,5 +10,6 @@ featured_image: "images/matsuuratomoya800-600.jpeg"
 
 # Profile
 
-
 Website : <https://matsuuratomoya.com>
+
+# Performance
