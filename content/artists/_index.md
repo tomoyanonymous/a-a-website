@@ -1,6 +1,5 @@
 ---
-title: "artists"
+title: "Artists"
 date: 2018-02-13
 description : ""
-featured_image : ""
 ---

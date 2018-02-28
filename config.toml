@@ -9,6 +9,31 @@ MetaDataFormat = "yaml"
 SectionPagesMenu = "main"
 Paginate = 10
 
+[[menu.main]]
+    name = "About"
+    title = "About"
+    weight = 90
+    identifier = "about"
+    url = "/about/"
+[[menu.main]]
+    name = "Artists"
+    title = "Artists"
+    weight = 100
+    identifier = "artists"
+    url = "/artists/"
+[[menu.main]]
+    name = "Ticket"
+    title = "Ticket"
+    weight = 110
+    identifier = "ticket"
+    url = "/ticket/"
+[[menu.main]]
+    name = "Contact"
+    title = "Contact"
+    weight = 120
+    identifier = "contact"
+    url = "/contact/"
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
