@@ -2,13 +2,13 @@
 title: ZEN-NOKAN
 description: ZEN-NOKAN
 date: 2018-02-13T00:00:00.000Z
-featured-image: /images/tomomioka_rr2.jpg
+featured_image: /images/tomomioka_rr2.jpg
 ---
 ![null](/images/tomomioka_rr5.jpg)
 
 # Profile
 
-ZEN-NOKANは、2014年に結成した、映像のプロジェクションを中心に 
+ZEN-NOKANは、2014年に結成した、映像のプロジェクションを中心に
 
 サウンド制作・プログラミングを併用した舞台演出・制作を手がけるチームです。
 
@@ -18,7 +18,7 @@ ZEN-NOKANは、2014年に結成した、映像のプロジェクションを中�
 
 ペインター・打楽器奏者・立体造形作家など
 
-様々なアーティストとコラボレーションすることで作品を生み出しています。 
+様々なアーティストとコラボレーションすることで作品を生み出しています。
 
 Website : http://www.zen-nokan.com/
 

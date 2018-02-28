@@ -2,7 +2,7 @@ backend:
   name: git-gateway
 
 media_folder: "static/images" # Folder where user uploaded files should go
-public_folder: "/images"
+public_folder: "images"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "artists" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -13,7 +13,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "アーティスト名", name: "title", widget: "string"}
       - {label: "アーティスト名（En）", name: "description", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Image", name: "featured-image", widget: "image", required: false}
+      - {label: "Image", name: "featured_image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Pages"
     name: "pages"
@@ -24,7 +24,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
-          - {label: "Image", name: "featured-image", widget: "image", required: false}
+          - {label: "Image", name: "featured_image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Description", name: "description", widget: "string", required: false}
       - file: "content/about/_index.md"
@@ -33,7 +33,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
-          - {label: "Image", name: "featured-image", widget: "image", required: false}
+          - {label: "Image", name: "featured_image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Description", name: "description", widget: "string", required: false}
       - file: "content/about/_index.md"
@@ -42,7 +42,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
-          - {label: "Image", name: "featured-image", widget: "image", required: false}
+          - {label: "Image", name: "featured_image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Description", name: "description", widget: "string", required: false}
       - file: "content/contact/_index.md"
@@ -51,7 +51,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
-          - {label: "Image", name: "featured-image", widget: "image", required: false}
+          - {label: "Image", name: "featured_image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Description", name: "description", widget: "string", required: false}
       - file: "content/tickets/_index.md"
@@ -60,6 +60,6 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
-          - {label: "Image", name: "featured-image", widget: "image", required: false}
+          - {label: "Image", name: "featured_image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Description", name: "description", widget: "string", required: false}
