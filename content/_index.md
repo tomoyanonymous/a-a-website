@@ -4,15 +4,15 @@ date: 2018-02-13
 description : ""
 ---
 
-{{% flex flex="flex" %}}
-{{% position cssclass="w-50-ns" horder="2" vorder="1" %}}
+{{% flex flex="flex-l flex-none" %}}
+{{% position cssclass="w-50-l" horder="2" vorder="1" %}}
 # Alternative Act 1.0
 
 ## Tech Performace Fes.
 
 A.A.2018の説明文がここに入ります。大体500字程度を想定しています。A.A.2018の説明文がここに入ります。大体500字程度を想定しています。A.A.2018の説明文がここに入ります。大体500字程度を想定しています。A.A.2018の説明文がここに入ります。大体500字程度を想定しています。A.A.2018の説明文がここに入ります。大体500字程度を想定しています。A.A.2018の説明文がここに入ります。大体500字程度を想定しています。A.A.2018の説明文がここに入ります。大体500字程度を想定しています。A.A.2018の説明文がここに入ります。大体500字程度を想定しています。A.A.2018の説明文がここに入ります。大体500字程度を想定しています。A.A.2018の説明文がここに入ります。大体500字程度を想定しています。A.A.2018の説明文がここに入ります。大体500字程度を想定しています。A.A.2018の説明文がここに入ります。大体500字程度を想定しています。
 {{% /position %}}
-{{% position cssclass="w-25-ns" horder="1" vorder="2" %}}
+{{% position cssclass="w-25-l" horder="1" vorder="2" %}}
 ## 日程
 
 2018/04/14 & 15
@@ -31,7 +31,7 @@ A.A.2018の説明文がここに入ります。大体500字程度を想定して
 [クラウドファンディングでお得なチケットの事前販売中](/crowdfunding)
 
 {{% /position %}}
-{{% position cssclass="w-25-ns" horder="3" vorder="3" %}}
+{{% position cssclass="w-25-l" horder="3" vorder="3" %}}
 ## 会場
 
 北千住 アートセンター BuOY
