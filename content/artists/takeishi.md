@@ -1,9 +1,7 @@
 ---
-title: "武石"
+title: 武石樹
 description: Takeishi Tatsuru
-date: 2018-02-13
-layout: "post"
-featured_image: "images/matsuuratomoya800-600.jpeg"
+date: 2018-02-13T00:00:00.000Z
 ---
 
 ![](/images/matsuuratomoya800-600.jpeg)
