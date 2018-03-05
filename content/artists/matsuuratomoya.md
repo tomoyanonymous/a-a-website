@@ -1,12 +1,10 @@
 ---
-title: "松浦 知也"
+title: 松浦 知也
 description: Matsuura Tomoya
-date: 2018-02-13
-layout: "post"
+date: 2018-02-13T00:00:00.000Z
 featured_image: images/matsuuratomoya800-600.jpeg
 ---
-
-![](/images/matsuuratomoya800-600.jpeg)
+![null](/images/matsuuratomoya800-600.jpeg)
 
 # Profile
 
@@ -21,6 +19,8 @@ Sound Maker/Engineer/Designer/Programmer
 Web Site : <https://matsuuratomoya.com>
 
 # Performance
+
+## Solo Performance with Macrophone
 
 自作電子音響楽器“Macrophone”を用いたサウンドパフォーマンス。
 Macrophoneはスピーカーからマイクロフォンに届いた音が再びスピーカーへフィードバックされる、ハウリングという現象を逆転的に楽器の主要素として扱うものである。
