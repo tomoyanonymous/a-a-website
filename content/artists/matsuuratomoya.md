@@ -1,6 +1,6 @@
 ---
 title: 松浦 知也
-description: Matsuura Tomoya
+description: Matsuura Tomoya　
 date: 2018-02-13T00:00:00.000Z
 featured_image: images/matsuuratomoya800-600.jpeg
 ---
