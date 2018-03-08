@@ -14,7 +14,7 @@ Website : <http://oshimatakuro.tumblr.com>
 
 # Performance
 
-PLAY A DAY vol.72
+**PLAY A DAY vol.72**
 
 2016年9月より、制作してきた楽器を組み合わせたパフォーマンスをPLAY A DAYと称して活動を開始。楽器の組み合わせや時間構成が毎回異なることからパフォーマンスはナンバリングされており、今回で72回目のパフォーマンスとなる。 
 
