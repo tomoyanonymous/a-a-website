@@ -4,7 +4,7 @@ description: Oshima Takuro
 date: 2018-02-13T00:00:00.000Z
 featured_image: /images/oshima_800-about500-72dpi.jpg
 ---
-![null](/images/matsuuratomoya800-600.jpeg)
+![null](/images/oshima_800-400-72dpi.jpg)
 
 # Profile
 
