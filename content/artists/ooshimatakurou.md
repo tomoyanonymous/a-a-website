@@ -1,15 +1,23 @@
 ---
-title: "おおしまたくろう"
-description: "Oshima Takurou"
-date: 2018-02-13
-layout: "post"
-featured_image: "images/matsuuratomoya800-600.jpeg"
+title: おおしまたくろう
+description: Oshima Takuro
+date: 2018-02-13T00:00:00.000Z
+featured_image: /images/oshima_800-about500-72dpi.jpg
 ---
-
-![](/images/matsuuratomoya800-600.jpeg)
+![null](/images/oshima_800-400-72dpi.jpg)
 
 # Profile
+
+身近な道具・現象を改変した楽器の制作と、それらを組み合わせた少し不思議なパフォーマンスを行う。 人々のアタリマエや思い込みから排除された「ノイズ」を、音楽や楽器の名を借りた遊びやユーモアによって世界の豊かさ・多様さに翻訳して表現する。音に関わる活動の他にZineの発行、Tシャツの制作、子供とのワークショップ、展覧会の企画など。 
+
+最近は神への祈りなどの人間の習慣的な行為に注目して、日常の無意味な行為や発見を言語化した詩集「雑言集」の制作や、毎週ジャンプの切り抜きをスクラップする活動「習慣少年ジャンプ」などを行う。
 
 Website : <http://oshimatakuro.tumblr.com>
 
 # Performance
+
+**PLAY A DAY vol.72**
+
+2016年9月より、制作してきた楽器を組み合わせたパフォーマンスをPLAY A DAYと称して活動を開始。楽器の組み合わせや時間構成が毎回異なることからパフォーマンスはナンバリングされており、今回で72回目のパフォーマンスとなる。 
+
+これまでに愛知県芸術劇場、Dommune、Maker Faire Tokyoをはじめ、電車や寺院などで公演されている。本作品にて第23回学生CGコンテスト(2017)優秀賞を受賞。
