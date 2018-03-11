@@ -4,13 +4,14 @@ description: Tsuyoshi Otabe + Akiyuki Okayasu from BLOCKS modular
 date: 2018-02-13T00:00:00.000Z
 featured_image: ''
 ---
-
-![](/images/matsuuratomoya800-600.jpeg)
+![](/images/OtabeOkayasu.jpg)
 
 # Profile
-ROLI BLOCKSをハックし
-BLOCKS modular 開発チームの デザイナー/エンジニア 小田部剛 と ソフトウェアエンジニア 岡安啓幸 によるユニット。 開発だけに留まらず、BLOCKS modular という新しい楽器で演奏すべき音楽を考えるための試み。
+ROLI BLOCKSとモジュラーシンセサイザーとを連携させ、新しい音楽インターフェース/音楽表現を考えるプロジェクト**BLOCKS modular**の開発者 小田部剛と岡安啓幸によるユニット。   
+BLOCKS modularという新しい楽器で演奏すべき音楽を考えるための試み。  
 
-Website : <https://blocksmodular.github.io/>
+Website : <https://blocksmodular.github.io/>  
+Tokyo Festival of Modular 2017(TFoM2017)にて行われたパフォーマンス : <https://youtu.be/h4cBKAIeWJM>
 
 # Performance
+開発中のBLOCKS modularプロトタイプモデルとモジュラーシンセサイザーやガジェット系シンセを連携させてライブパフォーマンスを行います。
