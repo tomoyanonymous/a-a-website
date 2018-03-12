@@ -1,6 +1,6 @@
 ---
 title: かさねぎリストバンド
-description: Kasanegi list band
+description: Layering wristband
 date: 2018-02-13T00:00:00.000Z
 featured_image: /images/hurehu.png
 performance_title: Cycling
@@ -56,6 +56,8 @@ Soundcloud : <https://soundcloud.com/yukiobana>
 
 1996年生まれ、栃木県出身。フィールドレコーディングやプログラミングを用いた電子音響音楽の制作を主に行う。
 
+[http://yoshikimasuda.com/](http://yoshikimasuda.com/?page_id=267)
+
 # Performance
 
 ## Cycling
@@ -63,7 +65,5 @@ Soundcloud : <https://soundcloud.com/yukiobana>
 回す、回る、漕ぐ、進む、鳴らす、聴く、始まる、終わる、止まる、動く、繰り返す
 
 「朝、目が覚めて、体を起こして、窓を開けて、昨日買ったパンを食べる。支度をして、どこかへ出かけて、誰かと会って、何かを話して、日が暮れて、帰って、寝るのは夜。」
-
-
 
 ギター、声、キーボード、声、パーカッション、コンピューターを演奏する６人とたくさんのマイク、たくさんのスピーカーを使って、音楽の根底にある「弾く」「聴く」「動く」を元に、出来る限りの全てのエネルギーと手段を使って、自分たちに残されている時間と、今いるこの場所とに向き合えたらいいと思っている。
