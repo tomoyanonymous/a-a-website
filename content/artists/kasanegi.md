@@ -20,13 +20,17 @@ Sound : <https://soundcloud.com/user-867835998/four_layering>
 
 メンバー (part)
 
+\-
+
 尾花 佑季 / Yuki Obana (Key) 
 
 平成8年夏生まれ。海の近くで育つ。作曲とピアノ演奏を楽しみながら、動いてる人に音をつける作品やライブ活動にいそしむ。その場・その時限りの音やリズムを丁寧に拾って聴かせられるように、毎日がんばり中。12年間愛読した別冊マーガレットを最近卒業しました。
 
-WEB : <https://yukiobana.tumblr.com / >
+WEB : <https://yukiobana.tumblr.com/>
 
-Soundcloud : <https://soundcloud.com/yukiobana>
+Sound : <https://soundcloud.com/yukiobana>
+
+\-
 
 久世 文 / Aya Kuze (Vocal) 
 
@@ -34,11 +38,15 @@ Soundcloud : <https://soundcloud.com/yukiobana>
 
 逗子、横浜、北千住、上野、神楽坂、茗荷谷、三茶、ダブリン。
 
-<https://chu-zze-blog.tumblr.com/>
+WEB : <https://chu-zze-blog.tumblr.com/>
+
+\-
 
 久保 慧祐 (Guitar)/  Keisuke Kubo
 
 1995年生まれ、鹿児島県鹿屋市出身。東京藝術大学音楽学部音楽環境創造科卒業。同大学ケルト音楽研究部（g-celt）にてアイルランド音楽に魅了され、ギターやバンジョーなどの演奏をセッションやライブなどにて研鑽を積んでいる。アイリッシュ・フルート奏者豊田耕三氏のソロアルバム「Internal Circulationー 呼吸の巴ー」に参加。通称ぼってぃ。
+
+\-
 
 田上 碧 / Aoi Tagami (Vocal) 
 
@@ -46,17 +54,23 @@ Soundcloud : <https://soundcloud.com/yukiobana>
 
 最新作では、建物の内壁に顔をつけて歌った（『シブカル祭。2017』）。
 
-<http://aoi-tagami.pupu.jp>
+WEB : <http://aoi-tagami.pupu.jp>
+
+\-
 
 日比野 桃子 / Momoko Hibino (Percussion) 
 
 1996年、千葉県生まれ。日本人がもっと自然におどるようになったら日本の社会はもっと良くなると信じていて、将来はキウイダンサーになるべく勉強や制作を頑張っている。パーカッションは初心者なので、ノリでノリ切ろうとしている。台湾の占い師によると、2018年はモテ期。
+
+\-
 
 増田 義基 / Yoshiki Masuda (PC+Synthesizer)
 
 1996年生まれ、栃木県出身。フィールドレコーディングやプログラミングを用いた電子音響音楽の制作を主に行う。
 
 [http://yoshikimasuda.com/](http://yoshikimasuda.com/?page_id=267)
+
+\-
 
 # Performance
 
