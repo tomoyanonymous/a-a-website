@@ -16,6 +16,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "アーティスト名（En）", name: "description", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Image", name: "featured_image", widget: "image", required: false}
+      - {label: "パフォーマンスタイトル", name: "performance_title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Pages"
     name: "pages"
