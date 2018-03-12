@@ -18,10 +18,6 @@ summary: 回す、回る、漕ぐ、進む、鳴らす、聴く、始まる、�
 
 Sound : <https://soundcloud.com/user-867835998/four_layering>
 
-
-
-
-
 メンバー
 
 尾花 佑季 (Keybord) Yuki Obana
@@ -32,8 +28,6 @@ WEB : <https://yukiobana.tumblr.com / >
 
 Soundcloud : <https://soundcloud.com/yukiobana>
 
-
-
 久世 文 (Vocal) Aya Kuze
 
 24歳のうたうたいライター兼エディター。元海外添乗員。元楽譜の読めない藝大生。派手な度胸試しとおじさんキラーで突っ走り行き詰まって引きこもって助けられて現在修行中。
@@ -42,13 +36,9 @@ Soundcloud : <https://soundcloud.com/yukiobana>
 
 <https://chu-zze-blog.tumblr.com/>
 
-
-
 久保 慧祐 (Guitar)/  Keisuke Kubo
 
 1995年生まれ、鹿児島県鹿屋市出身。東京藝術大学音楽学部音楽環境創造科卒業。同大学ケルト音楽研究部（g-celt）にてアイルランド音楽に魅了され、ギターやバンジョーなどの演奏をセッションやライブなどにて研鑽を積んでいる。アイリッシュ・フルート奏者豊田耕三氏のソロアルバム「Internal Circulationー 呼吸の巴ー」に参加。通称ぼってぃ。
-
-
 
 田上 碧 (Vocal) / Aoi Tagami
 
@@ -58,19 +48,13 @@ Soundcloud : <https://soundcloud.com/yukiobana>
 
 <http://aoi-tagami.pupu.jp>
 
-
-
 日比野 桃子
 
 1996年、千葉県生まれ。日本人がもっと自然におどるようになったら日本の社会はもっと良くなると信じていて、将来はキウイダンサーになるべく勉強や制作を頑張っている。パーカッションは初心者なので、ノリでノリ切ろうとしている。台湾の占い師によると、2018年はモテ期。
 
-
-
 増田 義基
 
 1996年生まれ、栃木県出身。
-
-
 
 # Performance
 
@@ -78,6 +62,6 @@ Soundcloud : <https://soundcloud.com/yukiobana>
 
 回す、回る、漕ぐ、進む、鳴らす、聴く、始まる、終わる、止まる、動く、繰り返す
 
-
-
 「朝、目が覚めて、体を起こして、窓を開けて、昨日買ったパンを食べる。支度をして、どこかへ出かけて、誰かと会って、何かを話して、日が暮れて、帰って、寝るのは夜。」
+
+ずっと昔から人間が音楽に託してきたことは
