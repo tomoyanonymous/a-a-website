@@ -20,8 +20,6 @@ summary: 回す、回る、漕ぐ、進む、鳴らす、聴く、始まる、�
 
 ギター、声、キーボード、声、パーカッション、コンピューターを演奏する６人とたくさんのマイク、たくさんのスピーカーを用い、音楽の根底にある「弾く」「聴く」「動く」を元に出来る限りの全てのエネルギーと手段を以て、自分たちに残されている時間と今いるこの場所とに向き合いたいと思う。
 
-
-
 # Profile
 
 かさねぎリストバンドはバンド。
@@ -32,9 +30,9 @@ summary: 回す、回る、漕ぐ、進む、鳴らす、聴く、始まる、�
 
 Sound : <https://soundcloud.com/user-867835998/four_layering>
 
-メンバー (part)
 
-\-
+
+\-メンバー (part)-
 
 尾花 佑季 / Yuki Obana (Key) 
 
@@ -82,7 +80,7 @@ WEB : <http://aoi-tagami.pupu.jp>
 
 1996年生まれ、栃木県出身。フィールドレコーディングやプログラミングを用いた電子音響音楽の制作を主に行う。
 
-[http://yoshikimasuda.com/](http://yoshikimasuda.com/?page_id=267)
+WEB : [http://yoshikimasuda.com/](http://yoshikimasuda.com/?page_id=267)
 
 \-
 
