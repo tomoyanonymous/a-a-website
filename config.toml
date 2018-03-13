@@ -40,7 +40,7 @@ Paginate = 10
   filename = "sitemap.xml"
 [params]
   favicon = ""
-  description = "Alternative Act 2018 coming soon..."
+  description = "Alternative Act 1.0 Tech Performance Fes. 技術と芸術を繋ぎなおす、新しい世代の表現者たちによる二日間のパフォーマンス・イベント。"
   facebook = ""
   twitter = "https://twitter.com/alternativeact"
   instagram = ""
