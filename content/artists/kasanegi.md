@@ -2,11 +2,11 @@
 title: かさねぎリストバンド
 description: Layering wristband
 date: 2018-02-13T00:00:00.000Z
-featured_image: /images/hurehu.png
+featured_image: /images/cycling_kasane_changcolor.jpg
 performance_title: Cycling
 summary: 回す、回る、漕ぐ、進む、鳴らす、聴く、始まる、終わる、止まる、動く、繰り返す
 ---
-![null](/images/hurehu.png)
+![null](/images/cycling_1.jpg)
 
 # Performance
 
