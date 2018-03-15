@@ -1,5 +1,5 @@
 ---
-title: 武石樹
+title: 武石 樹
 description: Takeishi Tatsuru
 date: 2018-02-13T00:00:00.000Z
 featured_image: /images/img_2173 3.jpg
