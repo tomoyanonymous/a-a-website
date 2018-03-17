@@ -2,6 +2,7 @@
 title: "Alternative Act 2018"
 date: 2018-02-13
 description : ""
+ogp_image : "/images/logo/ogp_blueback.jpeg"
 ---
 
 {{% flex flex="flex-l flex-none" %}}

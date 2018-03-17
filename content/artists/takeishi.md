@@ -3,9 +3,9 @@ title: 武石 樹
 description: Takeishi Tatsuru
 date: 2018-02-13T00:00:00.000Z
 featured_image: /images/img_2173 3.jpg
+ogp_image: /images/ogp_img_2173 3.jpg
 performance_title: Rhythm
-summary: >-
-  空間音響プログラムの開発やサウンドデザインを中心に、写真家や舞踏家、グラフィックデザイナーなど多岐に渡る分野とのコラボレーションを通して作品を制作している。 
+summary: 空間音響プログラムの開発やサウンドデザインを中心に、写真家や舞踏家、グラフィックデザイナーなど多岐に渡る分野とのコラボレーションを通して作品を制作している。
   1996年横浜生まれ　日本大学芸術学部音楽学科情報音楽コース在籍
 ---
 ![null](/images/img_2173 3.jpg)
