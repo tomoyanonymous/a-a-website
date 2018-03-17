@@ -39,7 +39,7 @@ Paginate = 10
   priority = 0.5
   filename = "sitemap.xml"
 [params]
-  favicon = ""
+  favicon = "images/favicon.ico"
   description = "Alternative Act 1.0 Tech Performance Fes. 技術と芸術を繋ぎなおす、新しい世代の表現者たちによる二日間のパフォーマンス・イベント。"
   facebook = ""
   twitter = "https://twitter.com/alter_act"
