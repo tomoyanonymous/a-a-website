@@ -31,9 +31,9 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Image", name: "featured_image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Description", name: "description", widget: "string", required: false}
-      - file: "content/about/_index.md"
-        label: "About"
-        name: "about"
+      - file: "content/_index.md"
+        label: "TopPage"
+        name: "index"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -58,9 +58,9 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Image", name: "featured_image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Description", name: "description", widget: "string", required: false}
-      - file: "content/tickets/_index.md"
-        label: "Tickets"
-        name: "tickets"
+      - file: "content/ticket/_index.md"
+        label: "Ticket"
+        name: "ticket"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
