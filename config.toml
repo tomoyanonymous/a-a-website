@@ -49,3 +49,4 @@ Paginate = 10
   featured_image = 'images/logo/blueback.jpeg'
   recent_posts_number = 8
   body_classes = "helvetica system-sans-serif"
+  env = "production"
