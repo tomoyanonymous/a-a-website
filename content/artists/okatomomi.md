@@ -51,6 +51,8 @@ Website : http://www.zen-nokan.com/
 
 いまは北千住BUoYアートセンターのある土地「千住仲町49-11」と千住のまちのリサーチに基づき、場所にまつわる記憶や記憶がかたちづくる場所をテーマに遠隔発光制御したボールとジャグラー、マルチチャンネルサウンド、マルチプロジェクションを駆使したミクストメディアパフォーマンスを発表します。
 
-## ROUND REFLECTION 特設サイト（3/15公開予定！）
+## ROUND REFLECTION 特設サイト
 
-![zen-nokan](/images/rr_ad_matome_small.jpg)
+## （http://www.zen-nokan.com/works_rr.html）
+
+![zen-nokan](/images/pillow_concat_h.jpg)
