@@ -55,4 +55,4 @@ Website : http://www.zen-nokan.com/
 
 ## （http://www.zen-nokan.com/works_rr.html）
 
-![zen-nokan](/images/rr_ad_matome_small.jpg)
+![zen-nokan](/images/pillow_concat_h.jpg)
