@@ -46,7 +46,7 @@ Sound : <https://soundcloud.com/yukiobana>
 
 久世 文 / Aya Kuze (Vocal) 
 
-24歳のうたうたいライター兼エディター。元海外添乗員。元楽譜の読めない藝大生。派手な度胸試しとおじさんキラーで突っ走り行き詰まって引きこもって助けられて現在修行中。
+24歳のうたうたいライター兼エディター。元海外添乗員。元楽譜の読めない藝大生。派手な度胸試しで突っ走り行き詰まって引きこもって助けられて現在修行中。
 
 WEB : <https://chu-zze-blog.tumblr.com/>
 
@@ -81,4 +81,3 @@ WEB : <http://aoi-tagami.pupu.jp>
 [http://yoshikimasuda.com/](http://yoshikimasuda.com/?page_id=267)
 
 \-
-
