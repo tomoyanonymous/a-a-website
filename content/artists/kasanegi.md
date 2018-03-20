@@ -3,7 +3,6 @@ title: かさねぎリストバンド
 description: Layering wristband
 date: 2018-02-13T00:00:00.000Z
 featured_image: /images/cycling_kasane_changcolor.jpg
-ogp_image: /images/ogp_cycling_kasane_changcolor.jpg
 performance_title: Cycling
 summary: 回す、回る、漕ぐ、進む、鳴らす、聴く、始まる、終わる、止まる、動く、繰り返す
 ---
@@ -35,7 +34,7 @@ Sound : <https://soundcloud.com/user-867835998/four_layering>
 
 \-
 
-尾花 佑季 / Yuki Obana (Key)
+尾花 佑季 / Yuki Obana (Key) 
 
 平成8年夏生まれ。海の近くで育つ。作曲とピアノ演奏を楽しみながら、動いてる人に音をつける作品やライブ活動にいそしむ。その場・その時限りの音やリズムを丁寧に拾って聴かせられるように、毎日がんばり中。12年間愛読した別冊マーガレットを最近卒業しました。
 
@@ -45,9 +44,9 @@ Sound : <https://soundcloud.com/yukiobana>
 
 \-
 
-久世 文 / Aya Kuze (Vocal)
+久世 文 / Aya Kuze (Vocal) 
 
-24歳のうたうたいライター兼エディター。元海外添乗員。元楽譜の読めない藝大生。派手な度胸試しとおじさんキラーで突っ走り行き詰まって引きこもって助けられて現在修行中。
+24歳のうたうたいライター兼エディター。元海外添乗員。元楽譜の読めない藝大生。派手な度胸試しで突っ走り行き詰まって引きこもって助けられて現在修行中。
 
 WEB : <https://chu-zze-blog.tumblr.com/>
 
@@ -59,7 +58,7 @@ WEB : <https://chu-zze-blog.tumblr.com/>
 
 \-
 
-田上 碧 / Aoi Tagami (Vocal)
+田上 碧 / Aoi Tagami (Vocal) 
 
 自身の声と言葉を使い、「歌」を探求している。2014 年頃より、野外から劇場空間まで、幅広い場でソロパフォーマンスを行なう。生身の体から出る歌声と言葉を通して、現実の音響空間や体のあり方を捉えなおそうと実践している。
 
@@ -69,7 +68,7 @@ WEB : <http://aoi-tagami.pupu.jp>
 
 \-
 
-日比野 桃子 / Momoko Hibino (Percussion)
+日比野 桃子 / Momoko Hibino (Percussion) 
 
 1996年、千葉県生まれ。日本人がもっと自然におどるようになったら日本の社会はもっと良くなると信じていて、将来はキウイダンサーになるべく勉強や制作を頑張っている。パーカッションは初心者なので、ノリでノリ切ろうとしている。台湾の占い師によると、2018年はモテ期。
 
@@ -82,5 +81,3 @@ WEB : <http://aoi-tagami.pupu.jp>
 [http://yoshikimasuda.com/](http://yoshikimasuda.com/?page_id=267)
 
 \-
-
-#
