@@ -26,7 +26,10 @@ ogp_image : "/images/logo/ogp_blueback.jpeg"
 
 # Date
 
-2018/04/14 & 15
+**2018/04/14** open 17:00 start 17:30 end 21:30
+
+**2018/04/15** open 15:00 start 15:30 end 19:30
+
 
 タイムテーブル後日公開予定
 
