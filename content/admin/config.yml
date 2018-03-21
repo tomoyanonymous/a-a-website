@@ -19,6 +19,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "パフォーマンスタイトル", name: "performance_title", widget: "string"}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Draft", name: "draft", widget: "boolean",required: false}
   - label: "Pages"
     name: "pages"
     files:
