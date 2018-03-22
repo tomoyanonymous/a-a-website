@@ -19,11 +19,11 @@ Website : https://blocksmodular.github.io/
 TOKYO BLOCKS HACKATHONから始まったROLI BLOCKSとモジュラーシンセサイザーを連携させることで新しい楽器を製作するプロジェクト。  
 開発はオープンソース（GPLv3）で進められており、ソースコードや筐体、基板設計データをライセンスの範囲内において利用できます。  
 
-BLOCKS modular開発チーム
-- Yui Onodera:　ディレクター
-- Yoshihiro Inoue:　ハードウェアエンジニア
-- Tsuyoshi Otabe: デザイナー・ハードウェアエンジニア
-- Akiyuki Okayasu: ソフトウェアエンジニア
+BLOCKS modular開発チーム  
+- Yui Onodera:　ディレクター  
+- Yoshihiro Inoue:　ハードウェアエンジニア  
+- Tsuyoshi Otabe: デザイナー・ハードウェアエンジニア  
+- Akiyuki Okayasu: ソフトウェアエンジニア  
 
 </br>
 
