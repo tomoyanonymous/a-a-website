@@ -1,8 +1,7 @@
 ---
-title: "Alternative Act 2018"
-date: 2018-02-13
-description : ""
-ogp_image : "/images/logo/ogp_blueback.jpeg"
+title: Alternative Act 2018
+date: 2018-02-13T00:00:00.000Z
+description: ''
 ---
 
 {{% flex flex="flex-l flex-none" %}}
@@ -37,9 +36,9 @@ ogp_image : "/images/logo/ogp_blueback.jpeg"
 
 1日通し券2500円(当日500円増し)
 
-3月末予約開始予定
-
 リピート割（2日目に前日のチケットをお持ちいただくと1000円バック）
+
+[予約はこちらから](/ticket)
 
 {{% /position %}}
 {{% /flex %}}
