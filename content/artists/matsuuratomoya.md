@@ -3,9 +3,11 @@ title: 松浦 知也
 description: Matsuura Tomoya
 date: 2018-02-13T00:00:00.000Z
 featured_image: images/matsuuratomoya800-600.jpeg
-ogp_image: images/ogp_matsuuratomoya800-600.jpeg
 performance_title: Solo Performance with Exidiophone
-summary: 音を中心とした様々なメディアにおける「システム」、その中でも特に「ライブ/通信」と「アーカイブ/記録」の関係性をテーマに音響装置作品や電子楽器、演奏システムの制作や作曲、演奏などを行う。 またインスタレーションやサウンドアートのサウンドシステム・プログラム開発のテクニカルなサポートや、レコーディング、映像のサウンドデザイン、舞台音響などを務める。1994年生。2017年東京藝術大学 音楽学部音楽環境創造科卒業、九州大学 大学院芸術工学府 修士課程在籍。
+summary: >-
+  音を中心とした様々なメディアにおける「システム」、その中でも特に「ライブ/通信」と「アーカイブ/記録」の関係性をテーマに音響装置作品や電子楽器、演奏システムの制作や作曲、演奏などを行う。
+  またインスタレーションやサウンドアートのサウンドシステム・プログラム開発のテクニカルなサポートや、レコーディング、映像のサウンドデザイン、舞台音響などを務める。1994年生。2017年東京藝術大学
+  音楽学部音楽環境創造科卒業、九州大学 大学院芸術工学府 修士課程在籍。
 ---
 ![null](/images/matsuuratomoya800-600.jpeg)
 
@@ -19,7 +21,14 @@ Sound Maker/Engineer/Designer/Programmer
 
 1994年生。2017年東京藝術大学 音楽学部音楽環境創造科卒業、九州大学 大学院芸術工学府 修士課程在籍。
 
+第23回学生CGコンテストアート部門最終ノミネート、アジアデジタルアート大賞2017 学生・インタラクティブアート部門入賞（「[送れ | 遅れ / post | past](https://matsuuratomoya.com/works/post-past_sotsuten/)」）。
+
+最近の活動では物理モデリング音源を物理的オブジェクトで再構成する作品「Aphysical Unmodeling Instrument」([奈良・町家の芸術祭はならぁと ぷらす2017 地域連携企画](http://hanarart.jp/2017/archives/2185)、[インターカレッジ・ソニックアーツフェスティバル2017](http://ic.jssa.info/)、[FREQ2018 ―21世紀初頭の音と音楽―](https://matsuuratomoya.com/info/2018-03-23/freq2018/))の展示、またその作品についての研究発表をAESジャパンフォーラム、[第34回JSSA研究会](http://jssa.info/publication)で行う。同作品を6月の国際学会[New Interfaces for Musical Expression 2018](http://nime2018.org/)にて展示研究発表予定
+
 Web Site : <https://matsuuratomoya.com>
+
+活動支援：[かけはし芸術文化振興財団](http://www.kakehashi-foundation.jp/activity/support/2018/)
+
 
 # Performance
 
