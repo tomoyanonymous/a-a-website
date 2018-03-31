@@ -9,14 +9,13 @@ summary: >-
   またインスタレーションやサウンドアートのサウンドシステム・プログラム開発のテクニカルなサポートや、レコーディング、映像のサウンドデザイン、舞台音響などを務める。1994年生。2017年東京藝術大学
   音楽学部音楽環境創造科卒業、九州大学 大学院芸術工学府 修士課程在籍。
 ---
-![null](/images/matsuuratomoya800-600.jpeg)
+![null](/images/img_0952のコピー.jpg)
 
 # Profile
 
 Sound Maker/Engineer/Designer/Programmer
 
 音を中心とした様々なメディアにおける「システム」、その中でも特に「ライブ/通信」と「アーカイブ/記録」の関係性をテーマに音響装置作品や電子楽器、演奏システムの制作や作曲、演奏などを行う。またインスタレーションやサウンドアートのサウンドシステム・プログラム開発のテクニカルなサポートや、レコーディング、映像のサウンドデザイン、舞台音響などを務める。
-
 
 1994年生。2017年東京藝術大学 音楽学部音楽環境創造科卒業、九州大学 大学院芸術工学府 修士課程在籍。
 
@@ -26,12 +25,11 @@ Sound Maker/Engineer/Designer/Programmer
 
 演奏活動ではラップトップ1台からミキサーとスピーカーとマイクのみでの演奏、自作電子楽器での演奏まで幅広く行う。2017年10月「[楽器作り、楽譜作り](https://matsuuratomoya.com/info/2017-09-16/iaf_live/)」@薬院 IAF Shop、12月「[緑青](https://matsuuratomoya.com/info/2017-11-30/rokushou_0/)」@落合Soupなど自らイベントの運営もする。
 
-音声信号処理プログラミング言語Faustの日本での自主普及活動「[#faust_jp](https://faust-jp.connpass.com/)」で勉強会の開催なども行う。
+音声信号処理プログラミング言語Faustの日本での自主普及活動「[\#faust_jp](https://faust-jp.connpass.com/)」で勉強会の開催なども行う。
 
 Web Site : <https://matsuuratomoya.com>
 
 活動支援：[かけはし芸術文化振興財団](http://www.kakehashi-foundation.jp/activity/support/2018/)
-
 
 # Performance
 
