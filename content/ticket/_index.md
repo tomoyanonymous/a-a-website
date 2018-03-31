@@ -1,10 +1,8 @@
 ---
-title: "Ticket"
-date: 2018-02-13
-description : ""
-featured_image : "/images/logo/whiteback.jpeg"
-ogp_image : "/images/logo/ogp_whiteback.jpeg"
-
+title: Ticket
+date: 2018-02-13T00:00:00.000Z
+featured_image: /images/logo/whiteback.jpeg
+description: ''
 ---
 
 # チケット情報
@@ -15,8 +13,20 @@ ogp_image : "/images/logo/ogp_whiteback.jpeg"
 
 **1日通し券2500円** 当日500円増し
 
-3月末予約開始予定
-
 ## リピート割
 
 2日目に前日のチケットを持ってきていただくとその場で1000円キャッシュバック
+
+# 予約
+
+どちらも当日精算となります。
+
+## Peatixから予約する
+
+<https://2018-alternative-act.peatix.com>
+
+## Googleフォームから予約する
+
+<https://goo.gl/forms/TeCUxW9uW2nZpsJy2>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScUYFnkx2b_cqMeCE9tWMv1IuK-DCSNVIhNdBkbE50A-MfPtg/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
