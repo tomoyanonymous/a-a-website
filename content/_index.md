@@ -1,14 +1,15 @@
 ---
 title: Alternative Act 2018
 date: 2018-02-13T00:00:00.000Z
+featured_image: ''
 description: ''
 ---
-
 {{% flex flex="flex-l flex-none" %}}
 {{% position cssclass="w-60-l" horder="1" vorder="1" %}}
+
 # Alternative Act 1.0
 
-## Tech Performace Fes.
+# Tech Performace Fes.
 
 既存のジャンルでは括ることのできない上演芸術のための実験的プラットフォーム「Alternative act」による、アートとテクノロジーの祭典、Tech Performance Fes。
 
@@ -18,8 +19,6 @@ description: ''
 
 東京都足立区千住のとある地下空間、歴史の地層に挟まれたエアポケットのような場所に立ち現れる、新しい世代の表現者たちによる二日間のパフォーマンス・イベント。
 
-
-
 {{% /position %}}
 {{% position cssclass="w-40-l" horder="2" vorder="2" %}}
 
@@ -28,7 +27,6 @@ description: ''
 **2018/04/14** open 17:00 start 17:30 end 21:30
 
 **2018/04/15** open 15:00 start 15:30 end 19:30
-
 
 タイムテーブル後日公開予定
 
