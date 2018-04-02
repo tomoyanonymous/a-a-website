@@ -1,12 +1,10 @@
 ---
-title: 百姓(DJ)
-description: Hyakusho(DJ)
+title: 水呑百姓東京
+description: mizunomi.tokyo
 date: 2018-02-12T00:00:00.000Z
-featured_image: /images/tomomioka_rr2.jpg
-performance_title:
-summary:
+featured_image: /images/29955836_1764253163667025_34074414_o.jpg
+performance_title: ' '
+summary: ' '
 draft: true
 ---
-![zen-nokan](/images/tomomioka_rr5.jpg)
-
 # Profile
