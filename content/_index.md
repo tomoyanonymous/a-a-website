@@ -9,7 +9,7 @@ description: ''
 
 # Alternative Act 1.0
 
-# Tech Performace Fes.
+# Tech Performance Fes.
 
 既存のジャンルでは括ることのできない上演芸術のための実験的プラットフォーム「Alternative act」による、アートとテクノロジーの祭典、Tech Performance Fes。
 
