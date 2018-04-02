@@ -3,9 +3,9 @@ title: Tsuyoshi Otabe + Akiyuki Okayasu from BLOCKS modular
 description: Tsuyoshi Otabe + Akiyuki Okayasu from BLOCKS modular
 date: 2018-02-13T00:00:00.000Z
 featured_image: /images/otabeokayasu.jpg
+ogp_image: /images/ogp_otabeokayasu.jpg
 performance_title: BLOCKS modular
-summary: >-
-  ROLI BLOCKSとモジュラーシンセサイザーを連携させることで、新しい楽器インターフェースと音楽表現を考えるプロジェクト BLOCKS
+summary: ROLI BLOCKSとモジュラーシンセサイザーを連携させることで、新しい楽器インターフェースと音楽表現を考えるプロジェクト BLOCKS
   modularの開発者 小田部剛と岡安啓幸によるユニット
 ---
 ![](/images/OtabeOkayasu.jpg)

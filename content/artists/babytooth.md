@@ -1,11 +1,11 @@
 ---
-title: 乳歯
+title: 乳歯(04/15ゲスト)
 description: babytooth
-date: '2018-04-02T20:39:18+09:00'
+date: 2018-02-14T00:00:00.000Z
 featured_image: /images/da7ba6251969a341abcf43d0b47ec0f3.jpg
+ogp_image: /images/ogp_da7ba6251969a341abcf43d0b47ec0f3.jpg
 performance_title: 報せ
 summary: News
-draft: true
 ---
 ![null](/images/da7ba6251969a341abcf43d0b47ec0f3.jpg)
 
