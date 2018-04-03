@@ -12,7 +12,4 @@ draft: false
 [www.mizunomi.tokyo](www.mizunomi.tokyo)
 
 
-
-# 
-
-#
+ 見える世界が違ったっていいじゃない。
