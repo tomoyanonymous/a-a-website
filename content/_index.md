@@ -2,6 +2,7 @@
 title: Alternative Act 2018
 date: 2018-02-13T00:00:00.000Z
 featured_image: images/logo/blueback.jpeg
+ogp_image: images/logo/ogp_blueback.jpeg
 description: ''
 ---
 {{% flex flex="flex-l flex-none" %}}

@@ -31,6 +31,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "Image", name: "featured_image", widget: "image", required: false}
+          - {label: "ogpImage", name: "ogp_image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Description", name: "description", widget: "string", required: false}
       - file: "content/_index.md"
@@ -40,6 +41,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "Image", name: "featured_image", widget: "image", required: false}
+          - {label: "ogpImage", name: "ogp_image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Description", name: "description", widget: "string", required: false}
       - file: "content/about/_index.md"
@@ -49,6 +51,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "Image", name: "featured_image", widget: "image", required: false}
+          - {label: "ogpImage", name: "ogp_image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Description", name: "description", widget: "string", required: false}
       - file: "content/contact/_index.md"
@@ -58,6 +61,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "Image", name: "featured_image", widget: "image", required: false}
+          - {label: "ogpImage", name: "ogp_image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Description", name: "description", widget: "string", required: false}
       - file: "content/ticket/_index.md"
@@ -67,5 +71,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "Image", name: "featured_image", widget: "image", required: false}
+          - {label: "ogpImage", name: "ogp_image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Description", name: "description", widget: "string", required: false}

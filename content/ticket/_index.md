@@ -2,6 +2,7 @@
 title: Ticket
 date: 2018-02-13T00:00:00.000Z
 featured_image: /images/logo/whiteback.jpeg
+ogp_image: /images/logo/ogp_whiteback.jpeg
 description: ''
 ---
 
