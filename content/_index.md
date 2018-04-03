@@ -46,7 +46,7 @@ description: ''
 
 # Venue
 
-**[北千住 アートセンター BUoY](http://buoy.or.jp/)**
+**[北千住BUoY](http://buoy.or.jp/)**
 
 ## Access
 
