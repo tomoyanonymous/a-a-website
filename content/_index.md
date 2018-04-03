@@ -29,7 +29,7 @@ description: ''
 
 **2018/04/15** open 15:00 start 15:30 end 19:30
 
-タイムテーブル後日公開予定
+**[タイムテーブル](/timetable)**
 
 ## [Ticket](/ticket)
 
