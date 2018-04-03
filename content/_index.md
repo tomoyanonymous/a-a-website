@@ -1,8 +1,7 @@
 ---
 title: Alternative Act 2018
 date: 2018-02-13T00:00:00.000Z
-featured_image: "images/logo/blueback.jpeg"
-ogp_image : "images/logo/ogp_blueback.jpeg"
+featured_image: images/logo/blueback.jpeg
 description: ''
 ---
 {{% flex flex="flex-l flex-none" %}}
@@ -53,3 +52,5 @@ description: ''
 〒120-0036 東京都足立区千住仲町49-11 (東京メトロ千代田線・日比谷線/JR常磐線/東武スカイツリーライン「北千住」駅出口１より徒歩6分、西口より徒歩8分)
 
 {{< google-map >}}
+
+助成:公益財団法人東京都歴史文化財団アーツカウンシル東京
