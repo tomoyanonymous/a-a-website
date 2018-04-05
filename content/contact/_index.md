@@ -10,4 +10,4 @@ ogp_images: "logo/ogp_blueback.jpeg"
 
 alternative.act18@gmail.com
 
-twitter:[@alter_act](https://twitter.com/alter_act)
+twitter:[@AlternativeAct_](https://twitter.com/AlternativeAct_)
