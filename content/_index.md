@@ -5,6 +5,7 @@ featured_image: images/logo/blueback.jpeg
 ogp_image: images/logo/ogp_blueback.jpeg
 description: ''
 ---
+
 {{% flex flex="flex-l flex-none" %}}
 {{% position cssclass="w-60-l" horder="1" vorder="1" %}}
 
@@ -41,6 +42,17 @@ description: ''
 
 {{% /position %}}
 {{% /flex %}}
+
+{{% flex flex="flex-l justify-center-l flex-none" %}}
+{{% position cssclass="w-80-l" horder="1" vorder="1" %}}
+
+<blockquote class="twitter-video tw-align-center" data-lang="ja"><p lang="ja" dir="ltr">【プロモーション・ムービー公開】4月14日/１５日に北千住BUoYにて開催される２日間のパフォーマンス・イベントTech Performance Fes.のプロモーション・ムービーを公開しました！　制作：<a href="https://twitter.com/FMS_Cat?ref_src=twsrc%5Etfw">@FMS_cat</a> 　音楽：<a href="https://twitter.com/MinimalHum?ref_src=twsrc%5Etfw">@MinimalHum</a> 　<a href="https://twitter.com/hashtag/AA_TPF?src=hash&amp;ref_src=twsrc%5Etfw">#AA_TPF</a> <a href="https://t.co/g9rBXQ8c6O">pic.twitter.com/g9rBXQ8c6O</a></p>&mdash; Tech Performance Fes.4/14.15 (@AlternativeAct_) <a href="https://twitter.com/AlternativeAct_/status/982239914308788225?ref_src=twsrc%5Etfw">2018年4月6日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+{{% /position %}}
+
+{{% /flex %}}
+
 
 {{< artists >}}
 
