@@ -9,15 +9,13 @@ draft: false
 ---
 # Profile
 
-[www.mizunomi.tokyo](www.mizunomi.tokyo)
+<http://mizunomi.tokyo/>
 
 mizunomi.tokyo was founded in 2017 by a group of shoemakers based in Tokyo that all liked so-called "high-tech sneakers".
 
 What started as just an activity for killing time while trying to make a plaster cast of a foot for making a sneaker, has now spun out to a performance working with self-built machines made from NES( Nintendo Entertainment System) and some widely used musical instruments.
 
 Currently we our far away from our main purpose but we are enthusiastically working together, experimenting everyday, on our way to finishing our very own "high-tech sneakers". Also, we think what we do is fun and we hope you like it, too.
-
-
 
 水呑百姓東京
 
