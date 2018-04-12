@@ -2,12 +2,12 @@
 title: kyo
 description: kyo
 date: 2018-02-12T00:00:00.000Z
-featured_image: ''
+featured_image: /images/kyo_img.jpg
 performance_title: DJ
 summary: vibes
 draft: true
 ---
-![]()
+![null](/images/kyo_img.png)
 
 # Profile
 
