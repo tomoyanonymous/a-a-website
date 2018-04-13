@@ -20,14 +20,5 @@ description: ''
 
 # 予約
 
-どちらも当日精算となります。
+予約は終了いたしました。当日のご来場をお待ちしております
 
-## Peatixから予約する
-
-<https://2018-alternative-act.peatix.com>
-
-## Googleフォームから予約する
-
-<https://goo.gl/forms/TeCUxW9uW2nZpsJy2>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScUYFnkx2b_cqMeCE9tWMv1IuK-DCSNVIhNdBkbE50A-MfPtg/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
